@@ -47,7 +47,7 @@ p1
 ```
 
 
-*Bar Graph showing each usernames favourite number.*
+*Bar Graph showing each usernames favorite number.*
 
 ### Exercises 19
 
